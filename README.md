@@ -1,7 +1,5 @@
 <h1>Hi! There, I am <a>Anubhav Singh</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-![](https://komarev.com/ghpvc/?username=thesinghanu&color=dc143c)
-
 <h3>I'm Anubhav Singh, from Bhagalpur,Bihar, India.</h3>
 
 
