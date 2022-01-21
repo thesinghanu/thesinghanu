@@ -1,7 +1,7 @@
 <h1>Hi! There, I am <a>Anubhav Singh</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h3>I'm from Bhagalpur,Bihar, India.</h3>
-
+![Twitter Follow](https://img.shields.io/twitter/follow/thesinghanubhav?style=social) <p align="left"> </p>
 
 - 🔭 I’m currently working on Python and Machine Learning.
 - 🌱 I’m currently learning Machine Learning(ML).
