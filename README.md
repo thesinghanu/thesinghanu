@@ -2,8 +2,7 @@
 
 <h3>I'm from Bhagalpur,Bihar, India.</h3>
 <img alt="GitHub followers" 
-src="https://img.shields.io/github/followers/thesinghanu?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/thesinghanubhav?style=social) <p align="left"> </p>
-
+src="https://img.shields.io/github/followers/thesinghanu?style=social"> 
 - 🔭 I’m currently working on Python and Machine Learning.
 - 🌱 I’m currently learning Machine Learning(ML).
 - 💬 Ask me about : Python 
